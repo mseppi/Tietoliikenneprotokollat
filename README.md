@@ -1,1 +1,3 @@
 # Tietoliikenneprotokollat
+
+Tehtävätiedosto Jyväskylän yliopiston Tietoliikenneprotokollat kurssille.
